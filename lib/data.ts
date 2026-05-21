@@ -104,15 +104,15 @@ export const experience = [
     org: "University Tutoring Centre",
     period: "Aug 2023 – Dec 2023",
     description:
-      "Tutored first- and second-year students in calculus, linear algebra, and discrete mathematics.",
+      "Tutored first- and second-year students in Numerical Method, Research Operations, Computer Programming, and Programming and Algorithms.",
     type: "work",
   },
   {
     role: "B.Sc. Mathematics",
     org: "University Name",
-    period: "2022 – Present",
+    period: "2022 – 2026",
     description:
-      "GPA: 3.9 / 4.0. Coursework in real analysis, abstract algebra, probability, numerical methods, and mathematical computing.",
+      "GPA: 3.72 / 4.0. Coursework in real analysis, abstract algebra, probability, numerical methods, and mathematical computing.",
     type: "education",
   },
 ];

@@ -93,23 +93,23 @@ export const projects = [
 export const experience = [
   {
     role: "Research Assistant",
-    org: "Department of Mathematics, University Name",
-    period: "Jan 2024 – Present",
+    org: "Department of Mathematics, University of Mataram",
+    period: "Jan 2024 - Present",
     description:
       "Assisting in numerical analysis research; implementing algorithms and producing reproducible computational experiments.",
     type: "research",
   },
   {
     role: "Mathematics Tutor",
-    org: "University Tutoring Centre",
-    period: "Aug 2023 – Dec 2023",
+    org: "University of Mataram",
+    period: "Aug 2023 - Dec 2023",
     description:
       "Tutored first- and second-year students in Numerical Method, Research Operations, Computer Programming, and Programming and Algorithms.",
     type: "work",
   },
   {
     role: "B.Sc. Mathematics",
-    org: "University Name",
+    org: "University of Mataram",
     period: "2022 - 2026",
     description:
       "GPA: 3.72 / 4.0. Coursework in real analysis, abstract algebra, probability, numerical methods, and mathematical computing.",
@@ -188,19 +188,19 @@ export const achievements = [
     description:
       "Selected participant in student mobility program and participated in academic exchange activities.",
     image: "",
-    type: "certificate",
+    type: "academic",
     period: "",
-    org: "",
+    org: "Universiti Putra Malaysia",
   },
 
   {
     title: "Secretary General",
     organization: "Gerakan Mahasiswa Desa",
-    year: "2025 – Present",
+    year: "2025 - Present",
     description:
       "Served as Secretary General and coordinated organizational administration and communication.",
     image: "",
-    type: "certificates",
+    type: "teaching",
     period: "",
   },
 ];

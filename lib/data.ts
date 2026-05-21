@@ -59,9 +59,9 @@ export const projects = [
     title:
       "Simulation of Spring Oscillations in Second-Order Differential Equations Using the Finite Difference Method",
     description:
-      "A Python library implementing Runge-Kutta methods for solving ordinary differential equations, with interactive visualisations.",
+      "This article discusses the simulation of spring oscillations modeled by second-order differential equations using the Finite Difference Method (FDM). The study focuses on analyzing the dynamic behavior of a spring-mass system by transforming continuous differential equations into discrete numerical forms. Through computational simulation, the Finite Difference Method is applied to approximate the displacement of the oscillating system over time. The results demonstrate the effectiveness of the method in solving oscillatory motion problems and provide insights into the accuracy and stability of numerical solutions for second-order differential equations.",
     tags: ["Python", "NumPy", "Matplotlib"],
-    github: "https://github.com/yourusername/ode-solver",
+    github: "",
     demo: "",
     year: "2025",
     featured: true,

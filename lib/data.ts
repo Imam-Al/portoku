@@ -10,7 +10,7 @@ export const personal = {
   github: 'https://github.com/Imam-Al',
   linkedin: 'www.linkedin.com/in/muhammad-imam-al-paqih',
   bio: `I am a mathematics student with a strong interest in computational methods, mathematical modelling, and data-driven research. I enjoy bridging abstract mathematics with practical software — building tools, exploring datasets, and contributing to academic research.`,
-  avatar: '/avatar.jpg', // put '/avatar.jpg' after adding the file to /public
+  avatar: '', // put '/avatar.jpg' after adding the file to /public
 }
 
 export const skills: { category: string; items: string[] }[] = [

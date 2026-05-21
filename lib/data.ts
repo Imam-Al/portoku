@@ -1,14 +1,14 @@
 // ─── EDIT THIS FILE to personalise every section of your portfolio ──────────
 
 export const personal = {
-  name: 'Your Name',
+  name: 'Muhammad Imam Al Paqih',
   title: 'Mathematics Student',
   subtitle: 'Computation · Research · Data',
-  university: 'University Name',
+  university: 'University of Mataram',
   location: 'Indonesia',
-  email: 'you@email.com',
-  github: 'https://github.com/yourusername',
-  linkedin: 'https://linkedin.com/in/yourusername',
+  email: 'muhammadimam.alpaqih@gmail.com',
+  github: 'https://github.com/Imam-Al',
+  linkedin: 'www.linkedin.com/in/muhammad-imam-al-paqih',
   bio: `I am a mathematics student with a strong interest in computational methods, mathematical modelling, and data-driven research. I enjoy bridging abstract mathematics with practical software — building tools, exploring datasets, and contributing to academic research.`,
   avatar: '', // put '/avatar.jpg' after adding the file to /public
 }

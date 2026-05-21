@@ -8,7 +8,7 @@ export const personal = {
   location: "Indonesia",
   email: "muhammadimam.alpaqih@gmail.com",
   github: "https://github.com/Imam-Al",
-  linkedin: "www.linkedin.com/in/muhammad-imam-al-paqih",
+  linkedin: "https://www.linkedin.com/in/muhammad-imam-al-paqih",
   bio: `I am a mathematics student with a strong interest in computational methods, mathematical modelling, and data-driven research. I enjoy bridging abstract mathematics with practical software — building tools, exploring datasets, and contributing to academic research.`,
   avatar: "/avatar.jpg", // put '/avatar.jpg' after adding the file to /public
 };
@@ -72,8 +72,8 @@ export const projects = [
     description:
       "Web-based interactive tool for visualising BFS, DFS, Dijkstra, and Kruskal algorithms step-by-step.",
     tags: ["React", "TypeScript", "Tailwind"],
-    github: "https://github.com/yourusername/graph-viz",
-    demo: "https://graph-viz.vercel.app",
+    github: "",
+    demo: "",
     year: "2024",
     featured: true,
   },
@@ -83,7 +83,7 @@ export const projects = [
     description:
       "An exploratory data analysis dashboard built with Next.js, offering descriptive stats and distribution plots for uploaded CSV data.",
     tags: ["Next.js", "Recharts", "Papa Parse"],
-    github: "https://github.com/yourusername/stat-dashboard",
+    github: "",
     demo: "",
     year: "2023",
     featured: false,
@@ -110,7 +110,7 @@ export const experience = [
   {
     role: "B.Sc. Mathematics",
     org: "University Name",
-    period: "2022 – 2026",
+    period: "2022 - 2026",
     description:
       "GPA: 3.72 / 4.0. Coursework in real analysis, abstract algebra, probability, numerical methods, and mathematical computing.",
     type: "education",

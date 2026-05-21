@@ -188,6 +188,9 @@ export const achievements = [
     description:
       "Selected participant in student mobility program and participated in academic exchange activities.",
     image: "",
+    type: "certificate",
+    period: "",
+    org: "",
   },
 
   {
@@ -197,8 +200,12 @@ export const achievements = [
     description:
       "Served as Secretary General and coordinated organizational administration and communication.",
     image: "",
+    type: "certificates",
+    period: "",
   },
 ];
+
+export const gallery = [{}];
 
 export const blogPosts = [
   {

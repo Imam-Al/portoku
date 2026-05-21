@@ -33,6 +33,7 @@ portfolio/
 ## ✏️ Personalise
 
 All content lives in **`lib/data.ts`**. Edit:
+
 - `personal` — name, bio, links, email
 - `skills` — skill categories and items
 - `projects` — your projects
@@ -41,8 +42,7 @@ All content lives in **`lib/data.ts`**. Edit:
 - `publications` — papers and talks
 - `certificates` — credentials
 - `blogPosts` — blog entries
-
-Add your photo: place `avatar.jpg` in `/public/` and set `personal.avatar = '/avatar.jpg'`.
+  `.
 
 ## 🚀 Local Development
 
@@ -56,12 +56,14 @@ Open [http://localhost:3000](http://localhost:3000).
 ## 📦 Deploy to Vercel
 
 ### Option A — Vercel CLI (recommended)
+
 ```bash
 npm i -g vercel
 vercel
 ```
 
 ### Option B — GitHub + Vercel Dashboard
+
 1. Push this folder to a GitHub repository
 2. Go to [vercel.com](https://vercel.com) → New Project
 3. Import your GitHub repo
@@ -78,6 +80,7 @@ No environment variables needed for the base portfolio.
 ## 📝 Adding Real Blog Posts
 
 Replace the placeholder in `app/blog/[slug]/page.tsx` with one of:
+
 - **MDX** — install `@next/mdx` and write `.mdx` files in `/content/blog/`
 - **Contentlayer** — structured MDX with type safety
 - **Notion / Sanity / Contentful** — CMS-driven posts via API

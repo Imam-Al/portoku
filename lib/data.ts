@@ -122,7 +122,7 @@ export const research = [
     title: "Convergence Analysis of Adaptive Runge-Kutta Methods",
     abstract:
       "We analyse the error bounds and convergence properties of adaptive step-size RK45 integrators applied to stiff ODEs arising in chemical kinetics.",
-    status: "In progress",
+    status: "Completed",
     year: "2024",
     collaborators: ["Dr. Supervisor Name"],
   },
@@ -177,6 +177,26 @@ export const certificates = [
     issuer: "Harvard / edX",
     year: "2022",
     url: "",
+  },
+];
+
+export const achievements = [
+  {
+    title: "Student Mobility Program",
+    organization: "Universitas Mataram",
+    year: "2026",
+    description:
+      "Selected participant in student mobility program and participated in academic exchange activities.",
+    image: "",
+  },
+
+  {
+    title: "Secretary General",
+    organization: "Gerakan Mahasiswa Desa",
+    year: "2025 – Present",
+    description:
+      "Served as Secretary General and coordinated organizational administration and communication.",
+    image: "",
   },
 ];
 

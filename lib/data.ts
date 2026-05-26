@@ -55,18 +55,6 @@ export const skills: { category: string; items: string[] }[] = [
 
 export const projects = [
   {
-    id: "numerical-ode",
-    title:
-      "Simulation of Spring Oscillations in Second-Order Differential Equations Using the Finite Difference Method",
-    description:
-      "This article discusses the simulation of spring oscillations modeled by second-order differential equations using the Finite Difference Method (FDM). The study focuses on analyzing the dynamic behavior of a spring-mass system by transforming continuous differential equations into discrete numerical forms. Through computational simulation, the Finite Difference Method is applied to approximate the displacement of the oscillating system over time. The results demonstrate the effectiveness of the method in solving oscillatory motion problems and provide insights into the accuracy and stability of numerical solutions for second-order differential equations.",
-    tags: ["Python", "NumPy", "Matplotlib"],
-    github: "",
-    demo: "",
-    year: "2025",
-    featured: true,
-  },
-  {
     id: "graph-viz",
     title: "Graph Algorithm Visualiser",
     description:
@@ -138,18 +126,44 @@ export const research = [
 
 export const publications = [
   {
-    title: "A Note on Adaptive Numerical Integration for Stiff Systems",
-    venue: "Undergraduate Research Journal of Mathematics, Vol. 4",
-    year: "2024",
+    title:
+      "Simulation of Spring Oscillations in Second-Order Differential Equations Using the Finite Difference Method",
+    venue: "EIGEN MATHEMATICS JOURNAL",
+    year: "2025",
+    doi: "https://doi.org/10.29303/emj.v8i2.321",
+    type: "Journal",
+  },
+  {
+    title:
+      "Pengenalan Basic Coding sebagai Upaya Penguatan Literasi Digital di SMP Negeri 1 Praya Tengah",
+    venue: "Sinergi dan Harmoni Masyarakat MIPA",
+    year: "2025",
+    doi: "https://doi.org/10.29303/sinonim.v2i1.8566",
+    type: "Journal",
+  },
+  {
+    title:
+      "ANALISIS STABILITAS SISTEM VAN DER POL MENGGUNAKAN METODE RUNGE-KUTTA ORDE 4",
+    venue: "Jurnal Riset dan Aplikasi Matematika (JRAM)",
+    year: "2025",
+    doi: "https://doi.org/10.26740/jram.v9n2.p170-178",
+    type: "Journal",
+  },
+  {
+    title:
+      "Analysis of Land Surface Temperature Changes in East Lombok Regency Using the Cloud-Based Platform Google Earth Engine",
+    venue: "Contemporary Mathematics and Applications",
+    year: "2025",
     doi: "",
     type: "Journal",
   },
   {
-    title: "Graph Colouring Approaches to Timetabling",
-    venue: "National Undergraduate Mathematics Conference 2023",
-    year: "2023",
+    title:
+      "Sosialisasi penulisan artikel ilmiah untuk pengganti skripsi pada mahasiswa Universitas Mataram",
+    venue: "Jurnal Pengabdian Inovasi Masyarakat Indonesia",
+    year: "2025",
     doi: "",
-    type: "Conference",
+    type: "Journal",
   },
 ];
 

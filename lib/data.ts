@@ -112,7 +112,7 @@ export const research = [
       "We analyse the error bounds and convergence properties of adaptive step-size RK45 integrators applied to stiff ODEs arising in chemical kinetics.",
     status: "Completed",
     year: "2024",
-    collaborators: ["Dr. Supervisor Name"],
+    collaborators: ["Nuzla Af'idatur Robbaniyyah, S.Si., M.Sc."],
   },
   {
     title: "Graph Colouring Heuristics for Scheduling Problems",

@@ -217,6 +217,11 @@ export const achievements = [
     type: "teaching",
     period: "",
   },
+
+  {
+    title: "3rd Place Winner - Essay Competition ",
+    year: "2025",
+  },
 ];
 
 export const gallery = [{}];

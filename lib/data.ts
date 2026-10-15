@@ -225,7 +225,7 @@ export const achievements = [
 ];
 
 export const gallery = [
-  { fix: "avatar1.jpg" },
+  { fix: "avatar1.jpg", title: "Mathematics Student" },
   { fix: "avatar1.jpg" },
   { fix: "avatar1.jpg" },
 ];

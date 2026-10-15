@@ -224,7 +224,11 @@ export const achievements = [
   },
 ];
 
-export const gallery = [{}];
+export const gallery = [
+  { fix: "avatar1.jpg" },
+  { fix: "avatar1.jpg" },
+  { fix: "avatar1.jpg" },
+];
 
 export const blogPosts = [
   {

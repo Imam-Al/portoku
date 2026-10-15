@@ -214,20 +214,25 @@ export const achievements = [
     description:
       "Served as Secretary General and coordinated organizational administration and communication.",
     image: "",
-    type: "teaching",
+    type: "academic",
     period: "",
   },
 
   {
     title: "3rd Place Winner - Essay Competition ",
     year: "2025",
+    description:
+      "Achieved 3rd place in the national essay competition organized by GAMATIKA Research Club.",
+    image: "",
+    type: "teaching",
+    org: "GAMATIKA Research Club",
   },
 ];
 
 export const gallery = [
-  { image: "/foto.jpg", title: "Profile" },
-  { image: "/wall.jpg", title: "Portrait" },
-  { image: "/wall2.jpg", title: "Snapshot" },
+  { Image: "/foto.jpg", title: "Profile" },
+  { Image: "/wall.jpg", title: "Portrait" },
+  { Image: "/wall2.jpg", title: "Snapshot" },
 ];
 
 export const blogPosts = [

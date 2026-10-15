@@ -8,7 +8,7 @@ import CertificatesSection from "@/components/CertificatesSection";
 import AchievementsSection from "@/components/AchievementsSection";
 import BlogSection from "@/components/BlogSection";
 import ContactSection from "@/components/ContactSection";
-// import GallerySection from "@/components/GallerySection";
+import GallerySection from "@/components/GallerySection";
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
       <CertificatesSection />
       <AchievementsSection />
       <BlogSection />
-      {/* <GallerySection /> */}
+      <GallerySection />
       <ContactSection />
     </>
   );

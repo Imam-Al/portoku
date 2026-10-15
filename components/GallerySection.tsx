@@ -10,8 +10,8 @@ export default function GallerySection() {
         {gallery.map((item, index) => (
           <div key={index}>
             <Image
-              src={item.fix}
-              alt={item.title ?? "Gallery image"}
+              src={item.image}
+              alt={item.title}
               width={500}
               height={500}
               className="rounded-xl"

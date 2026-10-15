@@ -232,7 +232,7 @@ export const achievements = [
 export const gallery = [
   { Image: "/foto.jpg", title: "Profile" },
   { Image: "/wall.jpg", title: "Portrait" },
-  { Image: "/wall2.jpg", title: "Snapshot" },
+  { Image: "/walking.jpg", title: "Snapshot" },
 ];
 
 export const blogPosts = [
